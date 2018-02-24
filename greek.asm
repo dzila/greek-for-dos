@@ -63,7 +63,7 @@ GREEK	SEGMENT
 
    A03:	MOV	BX	,4096		; Ανάλυση χαρακτήρα 16 x 8
 
-   A04:	PUSH	AX			; Αλλαγή του set χαρακτήρwν
+   A04:	PUSH	AX			; Αλλαγή του set χαρακτήρων
 	PUSH	CX
 	PUSH	DX
 	PUSH	BP
